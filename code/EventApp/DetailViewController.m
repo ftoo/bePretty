@@ -28,7 +28,7 @@
     content.contentDescription= _event.description;
     
     content.contentURL = [NSURL
-                          URLWithString:@"https://www.facebook.com"], [UIImage imageNamed:_event.name];
+                          URLWithString:@"https://www.facebook.com"], [UIImage imageNamed:_event.image];
     //content.imageURL=[NSURL URLWithString:_event.image];
     //content.image= _event.image;
     FBSDKShareButton *shareButton = [[FBSDKShareButton alloc] init];

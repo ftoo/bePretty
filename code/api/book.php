@@ -1,6 +1,8 @@
 <?php
 require_once ('conn.php');
 include_once 'AfricasTalkingGateway.php';
+$apikey = "5e0c6a9a33d7e784989dc2a949e1963da4078f46cfe7f991a64926250754021e";
+$APIusername   = "Rketter";
 
 
 
@@ -23,8 +25,7 @@ include_once 'AfricasTalkingGateway.php';
 			$response["message"] = $sql;
                   $type=3;
                 $message="Hello, ".$client_name." has book your service: ".$service." on ".$date." Contacts: ".$client_no." \n By BePretty.";
-                $apikey = "5e0c6a9a33d7e784989dc2a949e1963da4078f46cfe7f991a64926250754021e";
-	        $APIusername   = "Rketter";
+                
     	        $gateway    = new AfricasTalkingGateway($APIusername, $apikey);
 		$gateway->sendMessage($artist_no, $message, $type);
 		} else {

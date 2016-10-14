@@ -512,6 +512,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = EventApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.almodad.EventApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -527,6 +528,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = EventApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.almodad.EventApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";

@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 require_once ('conn.php');
 
 
-                $name = $_POST["name"];
+        $name = $_POST["name"];
 		$mobile_no = $_POST["mobile_no"];
 		$service= $_POST["service"];
 		$price= $_POST['price'];

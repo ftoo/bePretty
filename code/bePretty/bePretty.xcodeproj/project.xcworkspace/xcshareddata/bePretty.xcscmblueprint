@@ -5,13 +5,13 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "2A9AB7B5B040F4D175D452FF220CB5C97BEC1B80" : 0,
-    "4D0BD9BF97A358F554D0AD5A10058E9D980B1D48" : 0,
+    "9FDA4794BA4382E323E9DB93A9FF4360E3538F85" : 0,
     "E9005240A593621FB6E60E0F7B54EF536A3A4314" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "134737D8-3124-4044-83F9-2E192F0488D8",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "2A9AB7B5B040F4D175D452FF220CB5C97BEC1B80" : "TourApp\/",
-    "4D0BD9BF97A358F554D0AD5A10058E9D980B1D48" : "bePretty\/",
+    "9FDA4794BA4382E323E9DB93A9FF4360E3538F85" : "bePretty\/",
     "E9005240A593621FB6E60E0F7B54EF536A3A4314" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "bePretty",
@@ -26,7 +26,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ftoo\/bePretty.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D0BD9BF97A358F554D0AD5A10058E9D980B1D48"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FDA4794BA4382E323E9DB93A9FF4360E3538F85"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ftoo\/card.git",
